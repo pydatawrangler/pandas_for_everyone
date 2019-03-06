@@ -16,6 +16,8 @@
 
 <!--te-->
 
+[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/pydatawrangler/projects/pandas-for-everyone)
+
 # Pandas for Everyone
 Repository to accompany "Pandas for Everyone".
 
